@@ -1,0 +1,18 @@
+Abstract: De-anonymizing of Entities on the Onion Sites Operating on TOR Network
+
+This project proposes an innovative solution to de-anonymize entities operating on onion sites within the TOR network, focusing on detecting and mitigating illegal activities. The approach exploits vulnerabilities in both HTTP and HTTPS onion services, using a combination of configuration attacks, error exploitation, and cell manipulation techniques to decrypt communications and expose fraudulent entities.
+
+Proposed Solution:
+The primary approach targets HTTP services by leveraging configuration and error exploitation attacks, while the secondary approach involves extracting session keys through cell manipulation to decrypt HTTPS data. This dual-layered methodology aims to identify the physical location of onion sites with 90-100% accuracy, including detecting fraudulent activity in both HTTP (59% accuracy) and HTTPS (41% accuracy) environments.
+
+Technical Approach:
+The project employs advanced network detection, web intrusion frameworks, and exploit techniques. The process involves two primary phases: exploiting HTTP vulnerabilities using configuration attacks and error exploitation, and applying cell manipulation techniques to attack HTTPS-based services. In extreme cases, legal access to TOR relays may be necessary to effectively execute these methods.
+
+Feasibility and Viability:
+While the proposed approach is critical and involves a novel strategy, it is effective for small-scale operations. One major challenge is overcoming the sophisticated defenses of onion sites, but the system leverages existing exploits to penetrate encrypted networks. Despite the complexities, the approach remains feasible and offers significant potential for small-scale applications.
+
+Impact and Benefits:
+This solution could have a substantial impact on technical development, particularly in countries with limited cybersecurity infrastructure. By de-anonymizing illegal entities on the TOR network, the project would provide a highly reliable and accurate method (59% for HTTP and up to 100% for certain cases) for identifying the location of malicious onion sites. The solution would reduce reliance on external support and position local efforts at the forefront of cybersecurity innovations.
+
+Research and References:
+The project builds upon previous research on modified cell manipulation attacks and MITM (Man-In-The-Middle) setups for onion services. References include resources on onion scanning, TOR’s cell packet structure, and metrics on network performance. These foundational studies contribute to the development of a cutting-edge de-anonymization system for the TOR network.
