@@ -10,7 +10,7 @@
 ## Reconnaissance Phase :
  - intended to check the security system of the site and the onion network.
  - using a open source tool for this phase in specific to work on onion network
-    - [Onion Scan](https://github.com/s-rah/onionscan).
+    - [Onion Scan](https://github.com/s-rah/onionscan)
 
 ## Primary phase : 
  - intended to exploit the vulnerabilities of illegal Onion site.
@@ -24,5 +24,5 @@
  - intended to exploit the onion site via Network.
  - specifically used for highly protected websites like illegal drug trefficking sites.
  - this phase needs more details more than from reconn*, because onion network cant be decrypted that easily.
- - using a onion network intrusion based attack to monitor.
+ - using a onion network intrusion based attack to monitor
    - Cell Manipulation
