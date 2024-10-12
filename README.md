@@ -7,10 +7,12 @@
 
 ### Here we have the classified the attack to de-anonymize illegal onion site :
 
-## Reconnaissance Phase:
- -
+## Reconnaissance Phase :
+ - intended to check the security system of the site and the onion network.
+ - using a open source tool for this phase in specific to work on onion network
+    - [Onion Scan](https://github.com/s-rah/onionscan).
 
-## Primary phase :
+## Primary phase : 
  - intended to exploit the vulnerabilities of illegal Onion site.
  - for exploiting Onion Micro sites like illegal adult niche micro sites...
  - this Phase dont use that much of time and stuff, because its quite easy to exploit after reconnaissance.
