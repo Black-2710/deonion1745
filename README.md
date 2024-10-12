@@ -1,6 +1,6 @@
 Futher data of the project "1745 Exfolicating T.O.R."
 
-We classified the hierarchical expected solution
+We classified the hierarchical expected solution :
 1. Capture illegal Onion Site User's PII (Personal Identifiable Information) like usrname, passwd.
 2. Capture illegal Onion Site User's Original IP or VPN IP.
 3. Locate the Onion Site Host's original IP.
