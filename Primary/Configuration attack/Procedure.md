@@ -42,11 +42,11 @@ Testing an onion website using configuration attack methods involves several ste
 - **Document Findings**: Create a comprehensive report detailing:
   - The methods used during testing.
   - Vulnerabilities discovered.
-  - Recommended mitigation strategies.
+  - Recommending attack strategies.
 
-### **7. Remediation Verification**
+### **7. Approaching Attack Stratergies**
 
-- After remediation efforts are implemented by the website administrators, conduct follow-up testing to verify that vulnerabilities have been adequately addressed.
+- By getting details from above steps to capture data.
 
 By following this structured approach, you can effectively test an onion website for configuration vulnerabilities while maintaining ethical standards and ensuring compliance with legal regulations regarding security testing.
 
